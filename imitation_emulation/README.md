@@ -9,13 +9,13 @@ After Implementing the models of paper, the results are as shown in the table be
 | Class  | Model | Out of Sample Accuracy%   |
 | ------------- | ----------- | ------------- |
 | Emulation Inference    | 1  | 49,62     |    
-| ^^             | 2  | -    |
+| Emulation Inference             | 2  | -    |
 | Imitation RL    | 3  | 51,37     |    
-| ^^             | 4 | 53,88    |
+| Imitation RL             | 4 | 53,88    |
 | Emulation RL    | 5  | 52,16    |    
-| ^^             | 6  | 52,63    |
+| Emulation RL              | 6  | 52,63    |
 | Arbitration    | 7  | 54,63     |    
-| ^^             | 8  | -    |
+| Arbitration             | 8  | -    |
 
   
   
