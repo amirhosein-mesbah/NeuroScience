@@ -1,4 +1,4 @@
-# Investigate the role of Imitation and Emulation in Decision Making
+# Investigating the role of Imitation and Emulation in Decision Making
 
 This Project is a Python Implementation of a paper entitled "A Neuro‑computational Account of Arbitration between Choice Imitation and Goal Emulation during Human Observational Learning” by Caroline J. Charpentier et al. 
 Data of participants in the task is provided by the authors. I used this data to Implement the models that are introduced in the paper to investigate the role of Imitation and emulation in our Daily Decision Making.
